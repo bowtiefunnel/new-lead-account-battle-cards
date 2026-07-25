@@ -1,4 +1,4 @@
-# Socure Battle Cards
+# New Lead/Account Battle Cards
 
 Standalone Trigger.dev project that generates rep-facing battle cards for hot/warm
 accounts. Split out of [`socure-growth-exercise`](https://github.com/bowtiefunnel/socure-growth-exercise)
