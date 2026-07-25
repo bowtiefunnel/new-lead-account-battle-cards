@@ -1,0 +1,19 @@
+{
+  "name": "socure-battle-cards",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx trigger.dev@latest dev",
+    "deploy": "npx trigger.dev@latest deploy"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.57.0",
+    "@trigger.dev/sdk": "^4.5.7",
+    "langfuse": "^3.32.0"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "^4.5.7",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
